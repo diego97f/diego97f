@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/diego97f/diego97f/master/wave.gif" width="30">
 
-💻 Software Engineer and Cloud Architect with over six years of experience in designing, developing, and implementing scalable solutions for complex systems.
+💻 Backend Software Engineer and AWS Solutions Architect with over six years of experience in designing, developing, and implementing scalable solutions for complex systems.
 
 🚀 Skilled in driving impactful projects and bringing expertise to dynamic and high-demand environments.  
 
